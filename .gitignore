@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+config.env
+debug.env
+
+# Data & Images (Large files usually handled differently, but here we include data/)
+# /data/*
+# !/data/*.csv
+
+# System
+.vscode/
+.idea/
+.DS_Store
+node_modules/
+package-lock.json
+package.json
